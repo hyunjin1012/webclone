@@ -107,11 +107,11 @@ const PricingFour = {
     },
     {
       title: "Whitelabel branding",
-      icon: <Check className="text-red-500" />
+      icon: <Check className="text-green-500" />
     },
     {
       title: "30-day money back guarantee",
-      icon: <Check className="text-red-500" />
+      icon: <Check className="text-green-500" />
     },
     
   ],
