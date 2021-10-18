@@ -48,7 +48,7 @@ function Feature(props) {
           <h1 className="text-xl font-bold mb-8">{props.title}</h1>
           <p className="text-lg leading-normal ">{props.desc}.</p>
         </div>
-        <div className="flex items-center justify-center px-8 ">
+        <div className="flex items-center justify-center px-8 hidden md:flex">
           <div className="bg-white px-3 py-3 rounded-full">
             <FontAwesomeIcon
               icon={props.icon}

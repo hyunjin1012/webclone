@@ -59,7 +59,7 @@ export default function TextAnimation() {
 
   return (
     <Container>
-      <div className="h-2 relative text-4xl font-bold leading-snug tracking-tight lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight ">
+      <div className="h-2 relative text-3xl font-bold leading-snug tracking-tight lg:text-4xl lg:leading-tight xl:text-6xl xl:leading-tight ">
         <span id="text"></span>
         <div className="text-primary-color inline-block" id='console'>&#95;</div></div>
     </Container>
